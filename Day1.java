@@ -24,8 +24,10 @@ public class Day1 {
                     System.out.print("\t");
                 }
             }
-
-            System.out.println();
+            System.out.println("THis is new Code NAd Reasudinasd");
+            for(int i = 0; i<=arr.length;i++){
+                System.out.println(arr[i]);
+            }
         }
 
     }
